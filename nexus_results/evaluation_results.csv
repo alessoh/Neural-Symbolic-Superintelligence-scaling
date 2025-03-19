@@ -1,0 +1,31 @@
+index,true_label,true_class,neural_pred,neural_conf,symbolic_pred,symbolic_conf,nexus_pred,nexus_conf,nexus_strategy,active_symptoms,neural_correct,symbolic_correct,nexus_correct,nexus_improved
+0,1,Iris-versicolor,1,0.904596745967865,1,0.5,1,0.904596745967865,neural,[],True,True,True,False
+1,0,Iris-setosa,0,0.9961198568344116,0,0.5,0,0.9961198568344116,neural,"['feature_0', 'feature_1', 'feature_3']",True,True,True,False
+2,2,Iris-virginica,2,0.6175398230552673,2,0.5,2,0.6175398230552673,neural,[],True,True,True,False
+3,1,Iris-versicolor,2,0.7558410167694092,2,0.5,2,0.7558410167694092,neural,[],False,False,False,False
+4,1,Iris-versicolor,1,0.8209049701690674,1,0.5,1,0.8209049701690674,neural,[],True,True,True,False
+5,0,Iris-setosa,0,0.9967221617698669,0,0.5,0,0.9967221617698669,neural,"['feature_0', 'feature_1', 'feature_3']",True,True,True,False
+6,1,Iris-versicolor,1,0.9397027492523193,1,0.5,1,0.9397027492523193,neural,[],True,True,True,False
+7,2,Iris-virginica,2,0.8639926314353943,2,0.5,2,0.8639926314353943,neural,[],True,True,True,False
+8,1,Iris-versicolor,1,0.9020821452140808,1,0.5,1,0.9020821452140808,neural,[],True,True,True,False
+9,1,Iris-versicolor,1,0.9824220538139343,1,0.5,1,0.9824220538139343,neural,[],True,True,True,False
+10,2,Iris-virginica,2,0.8873631954193115,2,0.5,2,0.8873631954193115,neural,[],True,True,True,False
+11,0,Iris-setosa,0,0.9960220456123352,0,0.5,0,0.9960220456123352,neural,"['feature_0', 'feature_1', 'feature_3']",True,True,True,False
+12,0,Iris-setosa,0,0.9966257810592651,0,0.5,0,0.9966257810592651,neural,"['feature_0', 'feature_1', 'feature_3']",True,True,True,False
+13,0,Iris-setosa,0,0.9963768124580383,0,0.5,0,0.9963768124580383,neural,"['feature_0', 'feature_1', 'feature_3']",True,True,True,False
+14,0,Iris-setosa,0,0.9964495897293091,0,0.5,0,0.9964495897293091,neural,"['feature_0', 'feature_1', 'feature_3']",True,True,True,False
+15,1,Iris-versicolor,2,0.7291039824485779,2,0.5,2,0.7291039824485779,neural,[],False,False,False,False
+16,2,Iris-virginica,2,0.8994134664535522,2,0.5,2,0.8994134664535522,neural,['feature_3'],True,True,True,False
+17,1,Iris-versicolor,1,0.9910446405410767,1,0.5,1,0.9910446405410767,neural,[],True,True,True,False
+18,1,Iris-versicolor,1,0.8551875948905945,1,0.5,1,0.8551875948905945,neural,[],True,True,True,False
+19,2,Iris-virginica,2,0.8824561834335327,2,0.5,2,0.8824561834335327,neural,['feature_3'],True,True,True,False
+20,0,Iris-setosa,0,0.9965692758560181,0,0.5,0,0.9965692758560181,neural,"['feature_0', 'feature_1', 'feature_3']",True,True,True,False
+21,2,Iris-virginica,2,0.9085589051246643,2,0.5,2,0.9085589051246643,neural,['feature_3'],True,True,True,False
+22,0,Iris-setosa,0,0.9967585206031799,0,0.5,0,0.9967585206031799,neural,"['feature_0', 'feature_1', 'feature_3']",True,True,True,False
+23,2,Iris-virginica,2,0.8645270466804504,2,0.5,2,0.8645270466804504,neural,['feature_3'],True,True,True,False
+24,2,Iris-virginica,1,0.5810755491256714,1,0.5,1,0.5810755491256714,neural,[],False,False,False,False
+25,2,Iris-virginica,2,0.8947758078575134,2,0.5,2,0.8947758078575134,neural,[],True,True,True,False
+26,2,Iris-virginica,1,0.5006664991378784,1,0.5,1,0.5006664991378784,neural,[],False,False,False,False
+27,2,Iris-virginica,2,0.8833099007606506,2,0.5,2,0.8833099007606506,neural,[],True,True,True,False
+28,0,Iris-setosa,0,0.9960355162620544,0,0.5,0,0.9960355162620544,neural,"['feature_0', 'feature_1', 'feature_3']",True,True,True,False
+29,0,Iris-setosa,0,0.99638831615448,0,0.5,0,0.99638831615448,neural,"['feature_0', 'feature_1', 'feature_3']",True,True,True,False
