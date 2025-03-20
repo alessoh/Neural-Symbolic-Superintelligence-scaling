@@ -164,12 +164,12 @@ The NEXUS architecture's ability to combine pattern recognition with explicit re
 
 ```bash
 # Clone the repository
-git clone https://github.com/alessoh/Neural-Symbolic-Superintelligence
+git clone https://github.com/alessoh/Neural-Symbolic-Superintelligence-scaling
 cd Neural-Symbolic-Superintelligence
 
 # Create and activate a virtual environment
-conda create -n Neural-Symbolic-Superintelligence python=3.12
-conda activate Neural-Symbolic-Superintelligence
+conda create -n Neural-Symbolic-Superintelligence python-scaling=3.12
+conda activate Neural-Symbolic-Superintelligence-scaling
 
 # Install the required packages
 pip install -r requirements.txt
@@ -181,16 +181,16 @@ The repository contains several implementations with increasing levels of sophis
 
 ```bash
 # Run the basic demonstration
-python app.py
+python .py
 
 # Run the full NEXUS model with 10,000 synthetic patients
-python NexusMar11.py --samples 10000 --epochs 15
+python .py --samples 10000 --epochs 15
 ```
 
 For advanced usage and parameter options:
 
 ```bash
-python NexusMar11.py --help
+python .py --help
 ```
 
 ## Experimental Results
@@ -245,7 +245,7 @@ The development roadmap for NEXUS progresses through several phases:
 
 ```
 ssi1/
-├── NexusMar11.py          # Main NEXUS implementation with 10,000 patients
+├── .py          # Main NEXUS implementation with 10,000 patients
 ├── README.md              # Project documentation
 └── requirements.txt       # Required dependencies
 ```
